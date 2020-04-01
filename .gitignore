@@ -1,0 +1,136 @@
+
+# https://www.gitignore.io/api/python,windows 제작
+# https://www.gitignore.io/?templates=python,windows에서 편집
+
+### 파이썬 ###
+# 바이트 컴파일 / 최적화 / DLL 파일
+__pycache __ /
+* .py [대구]
+* $ py.class
+
+# C 확장
+*.그래서
+
+# 유통 / 포장
+. 파이썬
+짓다/
+개발 계란 /
+dist /
+다운로드 /
+달걀/
+.달걀/
+lib /
+lib64 /
+부속/
+sdist /
+var /
+바퀴 /
+핍 휠 메타 데이터 /
+공유 / 파이썬 휠 /
+* .egg-info /
+.installed.cfg
+*.계란
+명백한
+
+# PyInstaller
+# 일반적으로 이러한 파일은 템플릿의 파이썬 스크립트로 작성됩니다.
+PyInstaller가 exe를 빌드하기 전에 #는 날짜 / 기타 정보를 주입합니다.
+*.명백한
+*.투기
+
+# 인스톨러 로그
+pip-log.txt
+pip-delete-this-directory.txt
+
+# 단위 테스트 / 범위 보고서
+htmlcov /
+.tox /
+.nox /
+.적용 범위
+.적용 범위.*
+.은닉처
+nosetests.xml
+coverage.xml
+*.덮개
+가설 /
+.pytest_cache /
+
+# 번역
+* .mo
+*.냄비
+
+# 으스스한 것들 :
+.scrapy
+
+# 스핑크스 설명서
+docs / _build /
+
+# 파이 빌더
+표적/
+
+# pyenv
+.python 버전
+
+# pipenv
+# pypa / pipenv # 598에 따르면, 버전 제어에 Pipfile.lock을 포함시키는 것이 좋습니다.
+# 그러나 협업의 경우 플랫폼 별 종속성 또는 종속성이있는 경우
+# 크로스 플랫폼 지원이없는 pipenv는 작동하지 않는 의존성을 설치할 수 있습니다.
+# 필요한 모든 의존성을 설치하십시오.
+# Pipfile.lock
+
+# 셀러리 비트 일정 파일
+셀러리 비트 일정
+
+# SageMath 파싱 된 파일
+* .sage.py
+
+# 스파이더 프로젝트 설정
+.spyderproject
+.spyproject
+
+# 로프 프로젝트 설정
+.ropeproject
+
+# 미스터 개발자
+.mr.developer.cfg
+.계획
+.pydevproject
+
+# mkdocs 문서
+/대지
+
+# mypy
+.mypy_cache /
+.dmypy.json
+dmypy.json
+
+# 파이어 타입 체커
+.pyre /
+
+### Windows ###
+# Windows 썸네일 캐시 파일
+Thumbs.db
+Thumbs.db : 암호화 가능
+ehthumbs.db
+ehthumbs_vista.db
+
+# 덤프 파일
+* .stackdump
+
+# 폴더 설정 파일
+[Dd] esktop.ini
+
+# 파일 공유에 사용되는 휴지통
+$ RECYCLE.BIN /
+
+# Windows Installer 파일
+*.택시
+* .msi
+* .msix
+* .msm
+* .msp
+
+# Windows 단축키
+* .lnk
+
+# https://www.gitignore.io/api/python,windows 끝
